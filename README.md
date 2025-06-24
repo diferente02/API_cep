@@ -8,6 +8,7 @@ Este projeto Node-RED implementa um serviço de consulta de CEP que permite aos 
 - Validação básica do formato do CEP (8 dígitos, com ou sem hífen).
 - Integração com a API BrasilAPI para consulta de dados de CEP.
 - Exibição das informações do CEP de forma clara e organizada.
+- consulta do CEP via rota através da url: http://localhost:1880/consulta1?formcep="insiraaquionumerodocep"
 
 ## Pré-requisitos
 
